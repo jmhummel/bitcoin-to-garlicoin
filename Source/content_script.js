@@ -1,4 +1,6 @@
-walk(document.body);
+setTimeout(function() {
+	walk(document.body);
+}, 1000);
 
 function walk(node) 
 {
@@ -6,11 +8,13 @@ function walk(node)
 	// http://is.gd/mwZp7E
 	
 	var child, next;
-	
+
+	/*
 	if (node.tagName.toLowerCase() == 'input' || node.tagName.toLowerCase() == 'textarea'
 	    || node.classList.indexOf('ace_editor') > -1) {
 		return;
 	}
+	*/
 
 	switch ( node.nodeType )  
 	{
