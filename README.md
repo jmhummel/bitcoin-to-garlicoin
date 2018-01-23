@@ -1,8 +1,6 @@
 bitcoin-to-garlicoin
 =============
 
-![](logo.png)
-
 Chrome extension that replaces occurrences of 'bitcoin' with 'garlicoin'
 
 [Direct download of crx file]()

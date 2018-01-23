@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Bitcoin To Garlicoin",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces the text 'bitcoin' with 'garlicoin'.",
 	"content_scripts": 
 	[
 		{
