@@ -19,15 +19,7 @@ Installation
 
 In Chrome, choose Window > Extensions.  Drag BitcoinToGarlicoin.crx into the page that appears.
 
-Safari Version
---------------
-
-
-Firefox Version
----------------
-
-
-
-Opera Version
----------------
+Donate some garlicoin
+------------
+GThi4yCHm5e4KJnLKj71P2EKsA1h9RXNXx
 
