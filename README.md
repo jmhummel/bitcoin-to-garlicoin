@@ -3,7 +3,7 @@ bitcoin-to-garlicoin
 
 Chrome extension that replaces occurrences of 'bitcoin' with 'garlicoin'
 
-[Direct download of crx file]()
+[Direct download of crx file](https://github.com/jmhummel/bitcoin-to-garlicoin/blob/master/BitcoinToGarlicoin.crx)
 
 
 Screenshot Gallery
