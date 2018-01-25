@@ -41,7 +41,9 @@ function handleText(textNode)
 	var v = textNode.nodeValue;
 
 	v = v.replace(/\bbitcoin\b/g, "garlicoin");
-	v = v.replace(/\bBitcoin\b/g, "Garlicoin");
+    v = v.replace(/\bBitcoin\b/g, "Garlicoin");
+    v = v.replace(/\bbitcoins\b/g, "garlicoins");
+    v = v.replace(/\bBitcoins\b/g, "Garlicoins");
 	
 	textNode.nodeValue = v;
 }
